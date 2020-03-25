@@ -24,6 +24,6 @@
  		 <property name="net.sf.ehcache.configurationResourceName">/myehcache.xml</property>
 
 		<mapping class="com.test.hibernate.model.Employee" />
-		<mapping class="com.test.hibernate.model.Address" />
+		<mapping class="com.test.hibernate.model.Project" />
 	</session-factory>
 </hibernate-configuration>
